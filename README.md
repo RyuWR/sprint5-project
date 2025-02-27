@@ -11,3 +11,6 @@ Funcionalidades:
 Para executar:
 -Instale as bibliotecas necessárias: pip install streamlit pandas plotly
 -Execute o aplicativo: streamlit run app.py
+
+Para acessar o aplicativo:
+https://sprint5-project-j0op.onrender.com/
